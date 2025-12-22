@@ -16,6 +16,14 @@ public class SpecialGame extends SimpleGame {
 
         this.options.add("Lizard");
         this.options.add("Spock");
+
+        this.results.put("0-3", "crushes");
+        this.results.put("1-4", "disproves");
+        this.results.put("2-3", "decapitates");
+        this.results.put("3-4", "poisons");
+        this.results.put("3-1", "eats");
+        this.results.put("4-2", "smashes");
+        this.results.put("4-0", "vaporizes");
     }
 
     public static void startGame(String name) {

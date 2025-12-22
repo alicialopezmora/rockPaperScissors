@@ -9,5 +9,5 @@ Paper (✋) covers Rock
 Rock (✊) crushes Lizards and crushes Scissors
 Scissors (✌️) cut Paper and decapitate Lizard
 Paper (✋) covers Rock and disproves Spock
-Lizard (🤏) poisons Spock and eats Paper
+Lizard (🦎) poisons Spock and eats Paper
 Spock (🖖) smashes Scissors and vaporizes Rock
