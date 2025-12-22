@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        SimpleGame game = new SimpleGame();
+        SpecialGame game = new SpecialGame();
         game.startGame();
     }
 }
