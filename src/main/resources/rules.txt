@@ -1,0 +1,13 @@
+1. Simple Game Rules
+--------------------
+Rock (✊) crushes Scissors
+Scissors (✌️) cut Paper
+Paper (✋) covers Rock
+
+2. Special Game Rules
+---------------------
+Rock (✊) crushes Lizards and crushes Scissors
+Scissors (✌️) cut Paper and decapitate Lizard
+Paper (✋) covers Rock and disproves Spock
+Lizard (🤏) poisons Spock and eats Paper
+Spock (🖖) smashes Scissors and vaporizes Rock
