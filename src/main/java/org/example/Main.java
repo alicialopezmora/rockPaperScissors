@@ -14,7 +14,7 @@ public class Main {
         String name = scanner.nextLine();
 
         while(repeat){
-            String menu = new StringBuilder("\n###################################\n")
+            String menu = new StringBuilder("\n#########################################\n")
                     .append("Welcome ")
                     .append(name)
                     .append(" to Rock, Paper, Scissors!\n")
@@ -22,7 +22,7 @@ public class Main {
                     .append("2. Play Special Game\n")
                     .append("3. Show Rules\n")
                     .append("4. Exit\n")
-                    .append("###################################\n")
+                    .append("#########################################\n")
                     .append("Choose an option:")
                     .toString();
 
