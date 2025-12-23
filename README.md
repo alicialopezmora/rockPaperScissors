@@ -7,7 +7,7 @@ An implementation of the classic Rock, Paper, Scissors game, expanded with Lizar
 * Scissors (✌️) cut Paper
 * Paper (✋) covers Rock
 
---------------------
+-
 
 2. Special Game Rules
 * Rock (✊) crushes Lizards and crushes Scissors
@@ -23,4 +23,4 @@ An implementation of the classic Rock, Paper, Scissors game, expanded with Lizar
 2. Open the project in your IDE.
 3. Run the `Main` class to start the interactive menu.
 
-Hope you enjoy it!
+## Hope you enjoy it!
