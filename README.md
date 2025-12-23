@@ -2,12 +2,12 @@
 An implementation of the classic Rock, Paper, Scissors game, expanded with Lizard and Spock.
 
 ## Rules
-<ins>__1. Simple Game Rules__</ins>
+<ins>__1. Simple Game__</ins>
 * Rock (✊) crushes Scissors
 * Scissors (✌️) cut Paper
 * Paper (✋) covers Rock
 
-<ins>__2. Special Game Rules__</ins>
+<ins>__2. Special Game__</ins>
 * Rock (✊) crushes Lizards and crushes Scissors
 * Scissors (✌️) cut Paper and decapitate Lizard
 * Paper (✋) covers Rock and disproves Spock
