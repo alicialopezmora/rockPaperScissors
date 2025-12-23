@@ -2,14 +2,12 @@
 An implementation of the classic Rock, Paper, Scissors game, expanded with Lizard and Spock.
 
 ## Rules
-1. Simple Game Rules
+<ins>__1. Simple Game Rules__</ins>
 * Rock (✊) crushes Scissors
 * Scissors (✌️) cut Paper
 * Paper (✋) covers Rock
 
--
-
-2. Special Game Rules
+<ins>__2. Special Game Rules__</ins>
 * Rock (✊) crushes Lizards and crushes Scissors
 * Scissors (✌️) cut Paper and decapitate Lizard
 * Paper (✋) covers Rock and disproves Spock
@@ -23,4 +21,4 @@ An implementation of the classic Rock, Paper, Scissors game, expanded with Lizar
 2. Open the project in your IDE.
 3. Run the `Main` class to start the interactive menu.
 
-## Hope you enjoy it!
+__Hope you enjoy it!__
